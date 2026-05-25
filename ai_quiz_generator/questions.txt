@@ -1,0 +1,5 @@
+What is Python?|programming language
+What is abbreviation of AI?|artificial intelligence
+Who developed Python?|guido van rossum
+What does CPU stand for?|central processing unit
+What is the full form of RAM?|random access memory
